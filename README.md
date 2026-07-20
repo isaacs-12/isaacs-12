@@ -3,7 +3,7 @@
 I'm a software engineer who loves building tools, games, and anything that scratches an itch. I love creative automation, hardware hacking, and making computers do things they probably shouldn't.
 
 ## Active Projects
-
+- **[langcoach](https://github.com/isaacs-12/langcoach)** — This is the tool I always wished I had, to augment my Korean learning notes with AI-backed practice. have conversations with variable difficulty based on lesson notes, test yourself on the grammar you've learned, and practice translation.
 - **[vibehub](https://github.com/isaacs-12/vibehub)** — A vibes-first, Git-like collaborative engineering tool, reimaging code as a compiled artifact. Built with TypeScript, Rust. [Check it out](https://getvibehub.com)
 - **[WikipedAI](https://github.com/isaacs-12/wikiped.ai)** - A social commentary on the importance of reliable information. AI-generated, on-demand, variably factual. [Check it out](https://wikiped.ai)
 - **[Internet ArchAIve](https://github.com/isaacs-12/wikiped.ai)** - A continued social commentary on the importance of reliable information. Rewriting historical web snapshots and primary sources. [Check it out](https://archive.wikiped.ai)
